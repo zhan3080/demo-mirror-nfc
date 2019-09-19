@@ -1,1 +1,1 @@
-include ':demo-sink-nfc', ':demo-source-nfc'
+include ':demo-sink-nfc', ':demo-source-nfc', ':cardemulation'

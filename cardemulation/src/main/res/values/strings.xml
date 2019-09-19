@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CardEmulation</string>
+    <string name="describe">NFC投屏:发送端接触该设备，就能实现投屏\n
+        1、投屏的目标设备必须跟发送端处于同一个局域网内\n
+        2、目前只实现手动输入信息（目标接收端的ip及端口号）</string>
+    <string name="ipEdit">请输入接收端ip</string>
+    <string name="portEdit">请输入接收端主端口(默认52266)</string>
+    <string name="creatBtn">生成投屏nfc</string>
+    <string name="service_name">Emulation Service</string>
+    <string name="card_title">DTU</string>
+</resources>
