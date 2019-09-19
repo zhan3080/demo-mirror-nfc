@@ -1,0 +1,1 @@
+include ':demo-sink-nfc', ':demo-source-nfc'
